@@ -1,8 +1,9 @@
 ### Hi there! I'm Wadson Almeida 👋
 
-- 🌱 I’m currently learning system development web.
-- 🖥️ I study at the Trybe programming school.
-- 📫 Tell me by email: wadsonsantos92@gmail.com
+- 🖥️ I’m systems developer.
+- 🌱 I’m currently learning Data Science.
+- 🖥️ I study at the Unifran university 5/5.
+- 📫 Tell me by e-mail: wadsonsantos92@gmail.com
 - 😄 Pronouns: he/his
 
 <div align="center">
