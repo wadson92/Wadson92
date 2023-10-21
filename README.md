@@ -2,9 +2,8 @@
 
 - 🖥️ I’m systems developer.
 - 🌱 I’m currently learning Data Science.
-- 🖥️ I study at the Unifran university 5/5.
+- 🖥️ I'm graduated at the Unifran university.
 - 📫 Tell me by e-mail: wadsonsantos92@gmail.com
-- 😄 Pronouns: he/his
 
 <div align="center">
   <a href="https://github.com/Wadson92">
